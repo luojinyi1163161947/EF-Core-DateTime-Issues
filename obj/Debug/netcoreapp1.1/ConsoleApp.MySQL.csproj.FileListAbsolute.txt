@@ -1,0 +1,8 @@
+C:\Users\Administrator\test\ConsoleAPP.MySQL\bin\Debug\netcoreapp1.1\ConsoleApp.MySQL.deps.json
+C:\Users\Administrator\test\ConsoleAPP.MySQL\bin\Debug\netcoreapp1.1\ConsoleApp.MySQL.runtimeconfig.json
+C:\Users\Administrator\test\ConsoleAPP.MySQL\bin\Debug\netcoreapp1.1\ConsoleApp.MySQL.runtimeconfig.dev.json
+C:\Users\Administrator\test\ConsoleAPP.MySQL\bin\Debug\netcoreapp1.1\ConsoleApp.MySQL.dll
+C:\Users\Administrator\test\ConsoleAPP.MySQL\bin\Debug\netcoreapp1.1\ConsoleApp.MySQL.pdb
+C:\Users\Administrator\test\ConsoleAPP.MySQL\obj\Debug\netcoreapp1.1\ConsoleApp.MySQL.AssemblyInfo.cs
+C:\Users\Administrator\test\ConsoleAPP.MySQL\obj\Debug\netcoreapp1.1\ConsoleApp.MySQL.dll
+C:\Users\Administrator\test\ConsoleAPP.MySQL\obj\Debug\netcoreapp1.1\ConsoleApp.MySQL.pdb
